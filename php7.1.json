@@ -1,14 +1,14 @@
 {
-    "homepage": "http://windows.php.net/downloads/releases/",
+    "homepage": "https://windows.php.net/downloads/releases/",
     "version": "7.1.15",
     "license": "http://www.php.net/license/3_01.txt",
     "architecture": {
         "64bit": {
-            "url": "http://windows.php.net/downloads/releases/php-7.1.15-Win32-VC14-x64.zip",
+            "url": "https://windows.php.net/downloads/releases/php-7.1.15-Win32-VC14-x64.zip",
             "hash": "eb208c33c3348dab259aa74e4e04347b92e953f392ab1e98fe7710044c1e9849"
         },
         "32bit": {
-            "url": "http://windows.php.net/downloads/releases/php-7.1.15-Win32-VC14-x86.zip",
+            "url": "https://windows.php.net/downloads/releases/php-7.1.15-Win32-VC14-x86.zip",
             "hash": "2d11164b98ab8b03207f5736f3384cfc1754f623b802151c6a43d4f583b0db36"
         }
     },
@@ -27,10 +27,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "http://windows.php.net/downloads/releases/php-$version-Win32-VC14-x64.zip"
+                "url": "https://windows.php.net/downloads/releases/php-$version-Win32-VC14-x64.zip"
             },
             "32bit": {
-                "url": "http://windows.php.net/downloads/releases/php-$version-Win32-VC14-x86.zip"
+                "url": "https://windows.php.net/downloads/releases/php-$version-Win32-VC14-x86.zip"
             }
         },
         "hash": {
